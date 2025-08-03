@@ -6,7 +6,7 @@ Features vibrant color-changing ASCII art, a Telegram redirect with countdown, a
 Perfect for avoiding spam or testing signups in authorized environments. 🚀
 
 ## 📸 Screenshot
-![Go Temp Mail Bot in Action](<YOUR_SCREENSHOT_URL_HERE>) <!-- Replace with your screenshot URL, e.g., https://github.com/furysec/Go-Temp-Mail/raw/main/screenshot.png -->
+![Go Temp Mail Bot in Action](https://i.ibb.co/rK54tmMh/Screenshot-from-2025-08-02-20-15-17.png) <!-- Replace with your screenshot URL, e.g., https://github.com/furysec/Go-Temp-Mail/raw/main/screenshot.png -->
 
 ## ✨ Features
 - **Generate Temp Emails** 📧: Create disposable email addresses using Mail.tm’s free API.
